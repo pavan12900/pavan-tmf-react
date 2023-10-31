@@ -1,0 +1,58 @@
+.navbar {
+  background-color: #ffa501;
+  border: 2px solid orange;
+  justify-content: flex-start;
+  display: flex;
+}
+
+.logo-container img {
+  width: 150px;
+  height: 100px;
+}
+
+.navitems {
+  padding-top: 30px;
+  padding-left: 340px;
+}
+
+.navitems input {
+  background-color: #e9c27aba;
+  border-radius: 8px;
+  width: 400px;
+  height: 50px;
+}
+
+.profile {
+  width: 20px;
+  height: 20px;
+  padding-top: 35px;
+  padding-left: 300px;
+}
+
+.profile i {
+  font-size: 45px;
+}
+
+.restuarant2 {
+  background-color: #eac37aba;
+  border: 2px solid #eac37aba;
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.restuarant2 img {
+  width: 600px;
+  height: 400px;
+}
+
+h1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  font-size: 60px;
+}
+
+.carousel1 {
+  justify-content: space-around;
+  display: flex;
+}
+
+/*# sourceMappingURL=first.3a01df49.css.map */
